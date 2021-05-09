@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-04-23 at 4 34 32 PM](https://user-images.githubusercontent.com/83778378/117561562-89a82780-b0b5-11eb-84f0-7a590f997d8d.jpeg)
 # ocr_scanner
 
 A new Flutter application.
