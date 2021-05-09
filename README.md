@@ -4,13 +4,31 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### Get flutter from here for windows
+<a href="https://flutter.dev/docs/get-started/install/windows">https://flutter.dev/docs/get-started/install/windows</a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Get flutter from here for MAC
+<a href="https://flutter.dev/docs/get-started/install/macos">https://flutter.dev/docs/get-started/install/macos</a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Get flutter from here for Linux
+<a href="https://flutter.dev/docs/get-started/install/linux">https://flutter.dev/docs/get-started/install/linux</a>
+
+#### dependencies used in this project:
+<ul>
+  <li>firebase_core: 0.5.1
+  <li>firebase_auth: 0.18.2
+  <li>google_sign_in: 4.5.6
+  <li>image_picker: ^0.6.7+17
+  <li>image_cropper: ^1.4.0
+  <li>firebase_ml_vision: ^0.9.7
+  <li>clipboard: ^0.1.2+8
+</ul>
+
+<ul>
+  <li>In this project i have build an OCR scanner which scans the image and extract the text from it.</li>
+  <li>in this project first user need to login in the app and for that various login methods like google sign in, anonymous login, email password sign in and phone     authentication  is done using firebase as backend.</li>
+  <li>onece user is logged in they have option to select image from either gallery or from camera.</li>
+  <li>after the user will be redirected to crop screen where they can crop the image according to their needs.</li>
+  <li>and lastly scan button is there to extract the text.
+</ul>
