@@ -41,7 +41,6 @@ A new Flutter application.
 ![WhatsApp Image 2021-04-23 at 4 34 35 PM](https://user-images.githubusercontent.com/83778378/117561495-f1aa3e00-b0b4-11eb-8b70-5eb32f5c0f6a.jpeg)<hr>
 ![WhatsApp Image 2021-04-23 at 4 34 34 PM](https://user-images.githubusercontent.com/83778378/117561504-fec72d00-b0b4-11eb-8779-2357b03c9495.jpeg)<hr>
 ![WhatsApp Image 2021-04-23 at 4 34 33 PM](https://user-images.githubusercontent.com/83778378/117561522-228a7300-b0b5-11eb-9d93-62b38223b276.jpeg)<hr>
-![scann](https://user-images.githubusercontent.com/83778378/117561591-beb47a00-b0b5-11eb-800a-4db71e35fdbe.jpeg)<hr>
 ![WhatsApp Image 2021-04-23 at 4 34 32 PM](https://user-images.githubusercontent.com/83778378/117561562-89a82780-b0b5-11eb-84f0-7a590f997d8d.jpeg)
 
 
