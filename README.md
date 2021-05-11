@@ -29,7 +29,7 @@ A new Flutter application.
 <ul>
   <li>In this project i have build an OCR scanner which scans the image and extract the text from it.</li>
   <li>in this project first user need to login in the app and for that various login methods like google sign in, anonymous login, email password sign in and phone     authentication  is done using firebase as backend.</li>
-  <li>onece user is logged in they have option to select image from either gallery or from camera.</li>
+  <li>once user is logged in they have option to select image from either gallery or from camera.</li>
   <li>after the user will be redirected to crop screen where they can crop the image according to their needs.</li>
   <li>and lastly scan button is there to extract the text.
 </ul>
